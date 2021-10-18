@@ -15,7 +15,10 @@ class MyLife {
 		System.out.println("I'm happy that i can understand with what he was teaching.");
 		System.out.println("I hope i'll get more knowledge in programming with this class.");
 		System.out.println("My last class for today is philosophy and contemporary issues at 4:00p.m.-5:30p.m.");
-		
+		System.out.println("6:30p.m. - Done rest and start study");
+		System.out.println("8:30-10:30 - programming work");
+		System.out.println("10:30 - spend time with social media");
+		System.out.println("12:00 - sleep");
 	}
 
 }

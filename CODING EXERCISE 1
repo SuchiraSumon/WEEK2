@@ -1,0 +1,21 @@
+package myLife;
+
+class MyLife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hi , my name is Suchira.");
+		System.out.println("Today i will take about my daily life in campus");
+		System.out.println("I'll wake up everyday before 8:00a.m.");
+		System.out.println("It's because from Sunday until Thursday except Tuesday i'll have to join class in the morning.");
+		System.out.println("So , it's normal that i will wake up a little bit late in Tuesday");
+		System.out.println("But , today is on Monday");
+		System.out.println("Now, i'm on my introduction to programming and problem sloving class.");
+		System.out.println("Prof.Madya Dr.Azman is my lecturer for this class.");
+		System.out.println("I'm happy that i can understand with what he was teaching.");
+		System.out.println("I hope i'll get more knowledge in programming with this class.");
+		System.out.println("My last class for today is philosophy and contemporary issues at 4:00p.m.-5:30p.m.");
+		
+	}
+
+}
